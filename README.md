@@ -1,4 +1,6 @@
-# generate-issue-based-on-sitemap
+# auto-issue
+
+> generate issue based on sitemap.
 
 ## config file
 
